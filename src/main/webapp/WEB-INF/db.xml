@@ -42,7 +42,11 @@
         </property>
     </bean>
 
-    <bean id="access" class="ua.com.cib.exim.SimpleDBAccess">
+    <!--<bean id="access" class="ua.com.cib.exim.SimpleDBAccess">-->
+        <!--<constructor-arg name="sessionFactory" ref="sessionFactory"/>-->
+    <!--</bean>-->
+
+    <bean id="dbaccess" class="ua.com.cib.exim.db.DBAccess">
         <constructor-arg name="sessionFactory" ref="sessionFactory"/>
     </bean>
 

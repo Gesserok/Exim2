@@ -1,7 +1,9 @@
 C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\dao\User.java
 C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\view\DispatcherController.java
+C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\db\DBAccess.java
 C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\interfaces\IUser.java
 C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\SimpleDBAccess.java
 C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\Application.java
 C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\db\DBConnection.java
+C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\view\MainController.java
 C:\Java\CIB\exim\src\main\java\ua\com\cib\exim\view\MyController.java
